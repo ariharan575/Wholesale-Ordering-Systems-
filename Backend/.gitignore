@@ -1,8 +1,10 @@
 HELP.md
+.idea/
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+firebase-service-account.json
 
 ### STS ###
 .apt_generated

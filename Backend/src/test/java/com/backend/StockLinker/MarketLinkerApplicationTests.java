@@ -1,4 +1,4 @@
-package com.backend.MarketLinker;
+package com.backend.StockLinker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
